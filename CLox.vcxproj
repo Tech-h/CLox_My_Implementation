@@ -140,6 +140,9 @@
     <ClInclude Include="src\memory.h" />
     <ClInclude Include="src\value.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\TestRiderGitUpload" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
